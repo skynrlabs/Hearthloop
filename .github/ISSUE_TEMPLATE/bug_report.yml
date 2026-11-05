@@ -1,0 +1,64 @@
+name: Bug report
+description: Something isn't working the way it should
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this! A few details help a lot.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you do, and what went wrong?
+      placeholder: "I added 20 songs, clicked Create Video, and it stopped at 'Mixing the music...'"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open Image...
+        2. Add a Fog effect...
+        3. Click Preview...
+  - type: input
+    id: version
+    attributes:
+      label: Hearthloop version
+      description: Help → About Hearthloop shows it.
+      placeholder: "1.1.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: edition
+    attributes:
+      label: Full version or free demo?
+      options:
+        - Full version
+        - Free demo
+    validations:
+      required: true
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Windows version
+      options:
+        - Windows 11
+        - Windows 10
+        - Other
+  - type: textarea
+    id: error
+    attributes:
+      label: Error message or screenshot
+      description: Paste any error text, or drag a screenshot in here.
+  - type: textarea
+    id: project
+    attributes:
+      label: Anything else?
+      description: Image size, number of songs, effects used, video length... anything that might help.

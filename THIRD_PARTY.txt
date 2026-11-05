@@ -1,0 +1,20 @@
+Hearthloop uses third-party software:
+
+FFmpeg (ffmpeg.exe, ffprobe.exe) is NOT included with Hearthloop.
+  The first time it's needed, Hearthloop offers to download the official Windows build
+  from gyan.dev (https://www.gyan.dev/ffmpeg/builds/) into %LOCALAPPDATA%\Hearthloop\ffmpeg,
+  or you can use an ffmpeg you already have. FFmpeg is a separate program that Hearthloop runs;
+  that build is licensed under the GNU General Public License v3 (its licence text is saved
+  next to it as FFMPEG_LICENSE.txt). Source: https://ffmpeg.org  and  https://github.com/GyanD/codexffmpeg
+
+Qt for Python (PySide6) and Qt
+  Licensed under the GNU Lesser General Public License v3.
+  https://www.qt.io/qt-for-python  -  source: https://code.qt.io/
+  Qt Multimedia (used for preview sound) includes FFmpeg libraries under the GNU LGPL v2.1+.
+
+NumPy (BSD licence) - https://numpy.org
+Pillow (HPND licence) - https://python-pillow.org
+Josefin Sans font (used for the like & subscribe reminder) - Copyright 2010 The Josefin Sans
+  Project Authors. SIL Open Font License 1.1 - see assets/JosefinSans-OFL.txt
+
+Hearthloop itself is (c) 2026 Skynr Labs, all rights reserved - see LICENSE.txt.

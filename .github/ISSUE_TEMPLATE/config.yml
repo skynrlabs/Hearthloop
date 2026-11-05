@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question or help using Hearthloop
+    url: https://discord.gg/25mPUWUAa
+    about: Ask in the Skynr Labs Discord (#help). Issues are for bugs and feature requests.
+  - name: Buying, refunds or your download
+    url: https://skynrlabs.itch.io/hearthloop
+    about: Purchases are handled by itch.io. For anything about your order, email info@skynrlabs.com.

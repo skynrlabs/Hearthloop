@@ -1,0 +1,22 @@
+name: Feature request
+description: Suggest a new effect, setting or improvement
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like Hearthloop to do?
+      placeholder: "A 'northern lights' effect that ripples slowly across the sky"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What would you use it for?
+      description: The kind of scene or video you have in mind helps us get it right.
+  - type: textarea
+    id: example
+    attributes:
+      label: Example
+      description: A link or screenshot of something similar, if you have one.

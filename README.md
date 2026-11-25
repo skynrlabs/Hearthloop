@@ -9,7 +9,6 @@
   <a href="https://skynrlabs.itch.io/hearthloop"><img src="https://img.shields.io/badge/itch.io-%2414.99%20%C2%B7%20free%20demo-FA5C5C?logo=itchdotio&logoColor=white" alt="itch.io: $14.99, free demo"></a>
   <img src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6" alt="Windows 10 and 11">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-proprietary-555555" alt="Proprietary licence"></a>
-  <a href="https://discord.gg/25mPUWUAa"><img src="https://img.shields.io/badge/Discord-Skynr%20Labs-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 <p align="center"><b>Turn a still scene and your songs into a long-form ambient music video.</b></p>
@@ -17,7 +16,7 @@
 <p align="center">
   <a href="https://skynrlabs.itch.io/hearthloop"><b>Download the free demo</b></a> &nbsp;·&nbsp;
   <a href="https://skynrlabs.itch.io/hearthloop"><b>Buy Hearthloop ($14.99)</b></a> &nbsp;·&nbsp;
-  <a href="https://discord.gg/25mPUWUAa">Discord</a> &nbsp;·&nbsp;
+  <a href="mailto:support@skynrlabs.com">Email for help</a> &nbsp;·&nbsp;
   <a href="https://github.com/skynrlabs/Hearthloop/issues/new/choose">Report a bug</a>
 </p>
 
@@ -138,15 +137,11 @@ Song titles come from each file's title tag, or from the file name with leading 
 | Falling leaves or snow show up inside the room | Add a **Glass pane** for each pane of the window and drag its 4 corners onto the glass. With glass panes, the falling effect shows only through them. Draw a **Keep clear** box over lamps or plants in front of the window. |
 | The demo video stops at 10 minutes | That's the demo's limit. The [full version](https://skynrlabs.itch.io/hearthloop) has no length limit, no watermark and goes up to 4K. |
 
-Still stuck? Ask in [#help on Discord](https://discord.gg/25mPUWUAa) or [open an issue](https://github.com/skynrlabs/Hearthloop/issues/new/choose).
+Still stuck? Email [support@skynrlabs.com](mailto:support@skynrlabs.com) or [open an issue](https://github.com/skynrlabs/Hearthloop/issues/new/choose).
 
 ## 🐞 Bugs and ideas
 
 Found a bug, or have an idea for a new effect? [Open an issue](https://github.com/skynrlabs/Hearthloop/issues/new/choose). This repo is where Hearthloop is supported; the source code itself is private.
-
-## 💬 Community
-
-Join the [Skynr Labs Discord](https://discord.gg/25mPUWUAa) to ask questions, share the videos you've made and hear about new effects first. It's one server for all the Skynr Labs apps: Hearthloop, WavMasta, Stemquill and SemaBuzz.
 
 ## 📄 Licence
 
@@ -158,4 +153,4 @@ Third-party components keep their own licences; see [`THIRD_PARTY.txt`](THIRD_PA
 
 ---
 
-<p align="center">Made by <a href="https://github.com/skynrlabs">Skynr Labs</a> in Ontario, Canada &nbsp;·&nbsp; <a href="https://skynrlabs.itch.io/hearthloop">itch.io</a> &nbsp;·&nbsp; <a href="https://discord.gg/25mPUWUAa">Discord</a></p>
+<p align="center">Made by <a href="https://github.com/skynrlabs">Skynr Labs</a> in Ontario, Canada &nbsp;·&nbsp; <a href="https://skynrlabs.itch.io/hearthloop">itch.io</a> &nbsp;·&nbsp; <a href="mailto:support@skynrlabs.com">support@skynrlabs.com</a></p>
